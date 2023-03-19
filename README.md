@@ -3,9 +3,9 @@ I took data of global super store of year 2016 and built a interactive dashboard
 
 Key responsibilities:
 
-Analyze Sales, Quantity, Discount, Profit, Loss , Market etc
+1.) Analyze Sales, Quantity, Discount, Profit, Loss , Market etc
 
-Formatting , Cleansing of Data.
+2.) Formatting , Cleansing of Data.
 
-Interactive data visualization report of final data using Power
+3.) Interactive data visualization report of final data using Power
 BI.
